@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+  border: 3px blue solid;
+  padding: 5px;
+  margin: 5px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 100px;
+  margin-inline-end: 100px;
+  
+}
+
+a {
+	text-decoration: none;
+	color: darkblue;
+}
